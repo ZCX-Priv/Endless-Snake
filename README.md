@@ -64,3 +64,7 @@ npm run dev      # 开发
 npm run build    # 构建
 npm run preview  # 预览构建产物
 ```
+
+## 许可证
+
+[MIT License](./LICENSE) © 2026 SOLO-Thinker
